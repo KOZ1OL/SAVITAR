@@ -10,6 +10,7 @@ This file is virus file which AV detect. Second File is Launcher which download 
 This method do 100% AV bypass
 
 # Link to Launcher
+https://github.com/KOZ1OL/SAVITAR-LUNCHER
 
 # Donate
 
