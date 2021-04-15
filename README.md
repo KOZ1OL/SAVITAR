@@ -12,6 +12,9 @@ This method do 100% AV bypass
 # Link to Launcher
 https://github.com/KOZ1OL/SAVITAR-LUNCHER
 
+# If you like download Savitar
+https://github.com/KOZ1OL/SAVITAR-LUNCHER/raw/main/Savitar.exe
+
 # Donate
 
 If you like my program you can bring me a coffee using : www.paypal.me/k0z1ol4
