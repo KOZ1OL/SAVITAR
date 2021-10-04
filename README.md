@@ -1,4 +1,4 @@
-# SAVITAR
+# ♦️ SAVITAR ♦️
 
 ![comp](https://user-images.githubusercontent.com/51675112/114778066-ac744400-9d74-11eb-8647-127a79a3681d.gif)
 
